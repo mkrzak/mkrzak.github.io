@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Monika Krzak"
   left:
-    - text: "My research interests"
-      href: my_research_interests.html
     - text: "Single-cell RNAseq"
       href: scRNAseq.html
 
