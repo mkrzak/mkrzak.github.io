@@ -5,8 +5,6 @@ navbar:
   left:
     - text: "My research interests"
       href: my_research_interests.html
-    - text: "Programming"
-      href: programming.html
     - text: "Single-cell RNAseq"
       href: scRNAseq.html
 
