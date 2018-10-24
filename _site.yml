@@ -1,0 +1,25 @@
+name: "Monika Krzak"
+output_dir: "."
+navbar:
+  title: "Monika Krzak"
+  left:
+    - text: "My research interests"
+      href: my_research_interests.html
+    - text: "Programming"
+      href: programming.html
+    - text: "Single-cell RNAseq"
+      href: scRNAseq.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/mkrzak
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/krzaczek2403
+    - icon: fa-linkedin fa-lg
+      href: https://it.linkedin.com/in/monika-krzak-206299100
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

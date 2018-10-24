@@ -1,0 +1,35 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/myph.jpg" style="width:25%; border:10px solid; margin-right: 40px" align="left">
+
+
+My name is Monika Krzak. I am a Marie Curie PhD student of the International PhD Program in Life and Biomaterial Sciences - INCIPIT. At the same time I'm enrolled in the doctoral program at Campania University "Luigi Vanvitelli" but my main research activities are carried out in the CNR Institute for Applied Mathematics "Mauro Picone" (IAC).
+
+I graduated with a Bachelor of Applied Mathematics at Gdansk University of Technology (Poland).
+Further I have been enrolled in the [Intermaths](https://www.intermaths.eu/) program which is a Joint Master Degree between Gdansk University of Technology (Poland) and University of L'Aquila (Italy). 
+Meanwhile my Master studies I participated to the Erasmus Exchange Program at the University of Patras (Greece).
+After graduation I completed an Internship at the Research Unit 'Applied Mathematics and Computer Science, from Genomes to the Environment' [MaIAGE](https://maiage.jouy.inra.fr/?q=fr/) that is based in Jouy-en-Josas, France.
+
+Through the undergraduate studies I broaden the knowledge about various areas of Mathematics from Differential Equations and Algebra through Probability and Stochastic Processes. The comprehensive program of my University allowed me to uncover full spectrum of research areas where Mathematics or Statistics provide a handful tool to solve many real-life problems. For this reason my Bachelor thesis was devoted to one of the applications of Statistics in Medicine by infering the asymmetric properties of Heart Rate Variability. The Master studies were more focued on Machine Learning algorithms used in financial and biological context. I completed the Masters with project that relates the use of Support Vector Machines in microRNA target prediction. After graduation I got an Internship at the MaIAGE Unit of INRA Institute where under supervision of Dr Estelle Kuhn I worked on modeling times of corn plant flowering using Frailty Models for Censored Data. Since 2016 Im working at the IAC Institute where my main research, leaded by Dr Claudia Angelini, is focused on developing methods for high dimensional omic data analysis in particual those comming from single-cell RNAseq technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
